@@ -1,3 +1,4 @@
 hi  lets start
 thats great lol
 9 day 20txs donee
+./target/release/ocs01-test
