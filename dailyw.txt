@@ -4,3 +4,4 @@ thats great lol
 ./target/release/ocs01-test
 doneee
 another day commpleted...
+ok poi orng
