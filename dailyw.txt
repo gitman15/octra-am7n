@@ -4,5 +4,6 @@ thats great lol
 ./target/release/ocs01-test
 doneee
 another day commpleted...
+erggr
 ok poi orng
 nice kep
